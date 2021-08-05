@@ -53,7 +53,7 @@ namespace _4KNativeEditor
                
                 sr.Close();
               
-                MessageBox.Show("¡¡New FrameRate Stablished!!");
+                MessageBox.Show("New Maximum Framerate saved.");
 
             }
 
