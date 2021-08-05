@@ -1,0 +1,10 @@
+C:\Users\darkx\Documents\GitHub\UnCapFFPRemaster\4KNativeEditor\obj\Debug\UnCapFF.csprojAssemblyReference.cache
+C:\Users\darkx\Documents\GitHub\UnCapFFPRemaster\4KNativeEditor\obj\Debug\_4KNativeEditor.Form1.resources
+C:\Users\darkx\Documents\GitHub\UnCapFFPRemaster\4KNativeEditor\obj\Debug\_4KNativeEditor.Properties.Resources.resources
+C:\Users\darkx\Documents\GitHub\UnCapFFPRemaster\4KNativeEditor\obj\Debug\UnCapFF.csproj.GenerateResource.cache
+C:\Users\darkx\Documents\GitHub\UnCapFFPRemaster\4KNativeEditor\obj\Debug\UnCapFF.csproj.CoreCompileInputs.cache
+C:\Users\darkx\Documents\GitHub\UnCapFFPRemaster\4KNativeEditor\bin\Debug\UncapFF1PR.exe.config
+C:\Users\darkx\Documents\GitHub\UnCapFFPRemaster\4KNativeEditor\bin\Debug\UncapFF1PR.exe
+C:\Users\darkx\Documents\GitHub\UnCapFFPRemaster\4KNativeEditor\bin\Debug\UncapFF1PR.pdb
+C:\Users\darkx\Documents\GitHub\UnCapFFPRemaster\4KNativeEditor\obj\Debug\UncapFF1PR.exe
+C:\Users\darkx\Documents\GitHub\UnCapFFPRemaster\4KNativeEditor\obj\Debug\UncapFF1PR.pdb
